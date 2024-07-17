@@ -10,6 +10,19 @@ body{
     cursor: pointer;
     font-family: 
 }
+.dropdown{
+    display:none;
+    
+    
+}
+.content a{
+position: relative;
+
+}
+.content:hover{
+display:inline;
+
+}
 .icons{
     display:flex;
     justify-content: flex-start;
@@ -41,7 +54,7 @@ body{
     height: 50px;
     padding-top: 17px;
     padding-left: 25px;
-    background-color: white;
+    background-color: #e6eae9;
     color: black;
     margin-top: -60px;
     cursor: pointer;
